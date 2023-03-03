@@ -16,3 +16,12 @@ También queremos que los usuarios seleccionen a qué personas rastrear, como un
 Se debe usar paginación para los listados y mostrar 5 a la vez.
 
 Demostrar persistencia de datos.
+
+### Installation (recommended install with pnpm):
+```sh
+pnpm i
+```
+### Run:
+```sh
+pnpm local
+```
