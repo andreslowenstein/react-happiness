@@ -6,10 +6,10 @@ Les presentamos la "Herramienta de seguimiento de la felicidad del empleado", o 
 HSFE es una apicación que ayuda al usuario a realizar un seguimiento del nivel de felicidad de las personas relacionadas con una empresa.
 
 Cada persona tendrá las siguientes propiedades:
--Nombre
--Categoría (empleado o gerente)
--Nombre de empresa
--Nivel de felicidad
+.Nombre
+.Categoría (empleado o gerente)
+.Nombre de empresa
+.Nivel de felicidad
 
 Queremos que enumere a las personas y permita buscarlas por su nombre o categoría. Los resultados deben incluir la posibilidad de ordenarlos por nivel de felicidad, categoría o empresa en orden ascendente o descendente.
 
@@ -28,7 +28,7 @@ pnpm i
 pnpm local
 ```
 ### Dependencies:
--Redux
--rxjs
--styled-components
--mui
+.Redux
+.rxjs
+.styled-components
+.mui
