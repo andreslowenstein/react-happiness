@@ -28,7 +28,7 @@ pnpm i
 pnpm local
 ```
 ### Dependencies:
-+- Redux
+- Redux
 - rxjs
 - styled-components
 - MUI
