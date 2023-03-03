@@ -24,7 +24,7 @@ Demostrar persistencia de datos.
 </p>
 
 <p float="left">
-  <img src="https://github.com/andreslowenstein/react-happiness/blob/main/images/img2.png?raw=trueg" width="600"> 
+  <img src="https://github.com/andreslowenstein/react-happiness/blob/main/images/img2.png?raw=true" width="600"> 
 </p>
 
 ### Installation (recommended install with pnpm):
