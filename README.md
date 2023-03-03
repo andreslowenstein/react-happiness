@@ -1,5 +1,7 @@
 # react-happiness
- 
+
+#### Stack: Vite, React, TypeScript 
+
 Les presentamos la "Herramienta de seguimiento de la felicidad del empleado", o HSFE para acelerar las cosas.
 HSFE es una apicación que ayuda al usuario a realizar un seguimiento del nivel de felicidad de las personas relacionadas con una empresa.
 
@@ -25,3 +27,8 @@ pnpm i
 ```sh
 pnpm local
 ```
+### Dependencies:
+-Redux
+-rxjs
+-styled-components
+-mui

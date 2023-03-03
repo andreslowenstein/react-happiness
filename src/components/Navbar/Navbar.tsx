@@ -33,7 +33,7 @@ const Navbar: React.FC<NavbarProps> = () => {
             component="label"
             onClick={handleClick}
           >
-            <FavoriteIcon />
+            <FavoriteIcon color="error" />
           </IconButton>
         </Toolbar>
       </AppBar>
