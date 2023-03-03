@@ -20,11 +20,11 @@ Se debe usar paginación para los listados y mostrar 5 a la vez.
 Demostrar persistencia de datos.
 
 <p float="left">
-  <img src="https://github.com/andreslowenstein/react-happiness/images/img1.png" width="600"> 
+  <img src="https://github.com/andreslowenstein/react-happiness/blob/main/images/img1.png?raw=true" width="600"> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/andreslowenstein/react-happiness/images/img2.png" width="600"> 
+  <img src="https://github.com/andreslowenstein/react-happiness/blob/main/images/img2.png?raw=trueg" width="600"> 
 </p>
 
 ### Installation (recommended install with pnpm):
